@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UDPClient">
+</Property><Property Name="Файл решения" Value="I:\UDPClient\UDPClient.sln">
+</Property><Property Name="Date" Value="9 октября 2017 г.">
+</Property><Property Name="Time" Value="17:46:34">
+</Property><Property Name="Номер записи" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="UDPServer" Source="..\UDPServer\UDPServer\UDPServer.csproj" Description="Успешно создана резервная копия файла проекта: I:\UDPClient\Backup1\UDPServer.csproj">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="..\UDPServer\UDPServer\Form1.cs" Description="Успешно создана резервная копия файла I:\UDPClient\Backup1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="..\UDPServer\UDPServer\Form1.Designer.cs" Description="Успешно создана резервная копия файла I:\UDPClient\Backup1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="..\UDPServer\UDPServer\Program.cs" Description="Успешно создана резервная копия файла I:\UDPClient\Backup1\Program.cs">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="..\UDPServer\UDPServer\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла I:\UDPClient\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="..\UDPServer\UDPServer\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла I:\UDPClient\Backup1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="..\UDPServer\UDPServer\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла I:\UDPClient\Backup1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="..\UDPServer\UDPServer\Properties\Settings.settings" Description="Успешно создана резервная копия файла I:\UDPClient\Backup1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="..\UDPServer\UDPServer\Form1.resx" Description="Успешно создана резервная копия файла I:\UDPClient\Backup1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="..\UDPServer\UDPServer\Properties\Resources.resx" Description="Успешно создана резервная копия файла I:\UDPClient\Backup1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="..\UDPServer\UDPServer\UDPServer.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="UDPServer" Source="..\UDPServer\UDPServer\UDPServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UDPServer" Source="..\UDPServer\UDPServer\UDPServer.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

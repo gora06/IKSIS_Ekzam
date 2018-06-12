@@ -1,0 +1,25 @@
+E:\Temp\UDPServer\UDPServer\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\UDPServer\UDPServer\obj\Debug\UDPServer.Form1.resources
+E:\Temp\UDPServer\UDPServer\obj\Debug\UDPServer.Properties.Resources.resources
+E:\Temp\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+E:\Temp\UDPServer\UDPServer\bin\Debug\UDPServer.exe
+E:\Temp\UDPServer\UDPServer\bin\Debug\UDPServer.pdb
+E:\Temp\UDPServer\UDPServer\obj\Debug\UDPServer.exe
+E:\Temp\UDPServer\UDPServer\obj\Debug\UDPServer.pdb
+F:\UDPServer\UDPServer\obj\Debug\UDPServer.exe
+F:\UDPServer\UDPServer\obj\Debug\UDPServer.pdb
+c:\Учеба\6 семестр 7272\Контрольные\Информационные сети\UDPServer\UDPServer\obj\Debug\UDPServer.exe
+c:\Учеба\6 семестр 7272\Контрольные\Информационные сети\UDPServer\UDPServer\obj\Debug\UDPServer.pdb
+c:\Учеба\6 семестр 7272\Контрольные\Информационные сети\UDPServer\UDPServer\bin\Debug\UDPServer.exe
+c:\Учеба\6 семестр 7272\Контрольные\Информационные сети\UDPServer\UDPServer\bin\Debug\UDPServer.pdb
+c:\Учеба\6 семестр 7272\Контрольные\Информационные сети\UDPServer\UDPServer\obj\Debug\ResolveAssemblyReference.cache
+c:\Учеба\6 семестр 7272\Контрольные\Информационные сети\UDPServer\UDPServer\obj\Debug\UDPServer.Form1.resources
+c:\Учеба\6 семестр 7272\Контрольные\Информационные сети\UDPServer\UDPServer\obj\Debug\UDPServer.Properties.Resources.resources
+c:\Учеба\6 семестр 7272\Контрольные\Информационные сети\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+I:\UDPServer\UDPServer\bin\Debug\UDPServer.exe
+I:\UDPServer\UDPServer\bin\Debug\UDPServer.pdb
+I:\UDPServer\UDPServer\obj\Debug\UDPServer.Form1.resources
+I:\UDPServer\UDPServer\obj\Debug\UDPServer.Properties.Resources.resources
+I:\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+I:\UDPServer\UDPServer\obj\Debug\UDPServer.exe
+I:\UDPServer\UDPServer\obj\Debug\UDPServer.pdb

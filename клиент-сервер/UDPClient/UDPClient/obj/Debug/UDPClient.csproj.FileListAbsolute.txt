@@ -1,0 +1,39 @@
+E:\Temp\UDPClient\UDPClient\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\UDPClient\UDPClient\obj\Debug\UDPClient.Form1.resources
+E:\Temp\UDPClient\UDPClient\obj\Debug\UDPClient.Properties.Resources.resources
+E:\Temp\UDPClient\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+E:\Temp\UDPClient\UDPClient\bin\Debug\UDPClient.exe
+E:\Temp\UDPClient\UDPClient\bin\Debug\UDPClient.pdb
+E:\Temp\UDPClient\UDPClient\obj\Debug\UDPClient.exe
+E:\Temp\UDPClient\UDPClient\obj\Debug\UDPClient.pdb
+E:\Temp\UDPClient\UDPClient\obj\Debug\UDPClient.Client.resources
+F:\UDPClient\UDPClient\obj\Debug\UDPClient.exe
+F:\UDPClient\UDPClient\obj\Debug\UDPClient.pdb
+I:\UDPClient\UDPClient\obj\Debug\UDPClient.exe
+I:\UDPClient\UDPClient\obj\Debug\UDPClient.pdb
+I:\UDPClient\UDPClient\bin\Debug\UDPClient.exe
+I:\UDPClient\UDPClient\bin\Debug\UDPClient.pdb
+I:\UDPClient\UDPClient\obj\Debug\UDPClient.Form1.resources
+I:\UDPClient\UDPClient\obj\Debug\UDPClient.Client.resources
+I:\UDPClient\UDPClient\obj\Debug\UDPClient.Properties.Resources.resources
+I:\UDPClient\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+I:\UDPClient\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+E:\5 семестр\РИС (1,2)\1лаб+\UDPClient\UDPClient\obj\Debug\UDPClient.exe
+E:\5 семестр\РИС (1,2)\1лаб+\UDPClient\UDPClient\obj\Debug\UDPClient.pdb
+E:\5 семестр\РИС (1,2)\1лаб+\UDPClient\UDPClient\bin\Debug\UDPClient.exe
+E:\5 семестр\РИС (1,2)\1лаб+\UDPClient\UDPClient\bin\Debug\UDPClient.pdb
+E:\5 семестр\РИС (1,2)\1лаб+\UDPClient\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+E:\5 семестр\РИС (1,2)\1лаб+\UDPClient\UDPClient\obj\Debug\UDPClient.Form1.resources
+E:\5 семестр\РИС (1,2)\1лаб+\UDPClient\UDPClient\obj\Debug\UDPClient.Client.resources
+E:\5 семестр\РИС (1,2)\1лаб+\UDPClient\UDPClient\obj\Debug\UDPClient.Properties.Resources.resources
+E:\5 семестр\РИС (1,2)\1лаб+\UDPClient\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+D:\УЛГТУ 19.02.18\ИСТбд-31\5 семестр\РИС++\1лаб++\UDPClient\UDPClient\bin\Debug\UDPClient.exe
+D:\УЛГТУ 19.02.18\ИСТбд-31\5 семестр\РИС++\1лаб++\UDPClient\UDPClient\bin\Debug\UDPClient.pdb
+D:\УЛГТУ 19.02.18\ИСТбд-31\5 семестр\РИС++\1лаб++\UDPClient\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+D:\УЛГТУ 19.02.18\ИСТбд-31\5 семестр\РИС++\1лаб++\UDPClient\UDPClient\obj\Debug\UDPClient.Form1.resources
+D:\УЛГТУ 19.02.18\ИСТбд-31\5 семестр\РИС++\1лаб++\UDPClient\UDPClient\obj\Debug\UDPClient.Client.resources
+D:\УЛГТУ 19.02.18\ИСТбд-31\5 семестр\РИС++\1лаб++\UDPClient\UDPClient\obj\Debug\UDPClient.Properties.Resources.resources
+D:\УЛГТУ 19.02.18\ИСТбд-31\5 семестр\РИС++\1лаб++\UDPClient\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+D:\УЛГТУ 19.02.18\ИСТбд-31\5 семестр\РИС++\1лаб++\UDPClient\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+D:\УЛГТУ 19.02.18\ИСТбд-31\5 семестр\РИС++\1лаб++\UDPClient\UDPClient\obj\Debug\UDPClient.exe
+D:\УЛГТУ 19.02.18\ИСТбд-31\5 семестр\РИС++\1лаб++\UDPClient\UDPClient\obj\Debug\UDPClient.pdb
